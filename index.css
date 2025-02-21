@@ -1,7 +1,7 @@
 /* General Styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: rebeccapurple;
+  background-color: rgb(119, 51, 153);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -61,7 +61,7 @@ a {
 /* Section 1 */
 .main-section .section-1 {
   height: 44vh;
-  background-color: rgb(238, 184, 85);
+  background-color: rgb(85, 238, 182);
   /* padding: 45px; */
   display: flex;
   flex-direction: row;
