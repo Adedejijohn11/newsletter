@@ -61,7 +61,7 @@ a {
 /* Section 1 */
 .main-section .section-1 {
   height: 44vh;
-  background-color: rgb(85, 238, 182);
+  background-color: rgb(238, 184, 85);
   /* padding: 45px; */
   display: flex;
   flex-direction: row;
@@ -170,7 +170,7 @@ input {
 
 footer {
   height: 6vh;
-  background-color: rgb(85, 238, 182);
+  background-color: rgb(238, 184, 85);
   display: flex;
   align-items: center;
   justify-content: center;
