@@ -202,10 +202,6 @@ footer {
 @media (max-width: 430px) {
   /* Navbar */
 
-  /* .navbar {
-    padding: 0 20px;
-  } */
-
   .navbar .section-2 .btn-1 {
     display: none;
   }
@@ -218,9 +214,6 @@ footer {
 
   .main-section .section-1 {
     height: 42.5vh;
-    /* padding-top: 10px; */
-    /* width: 90vw; */
-    /* padding: 45px; */
   }
 
   .main-section .section-1 .join_now {
